@@ -1,0 +1,29 @@
+# Keil uVision project generated files
+*.uvopt
+*.uvoptx
+*.uvguix.*
+*.bak
+*.dep
+*.tmp
+
+# Compilation output and objects
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.htm
+*.build_log.htm
+*.lnp
+*.sct
+*.lst
+
+# J-Link and debug files
+JLink*
+*.dbgconf
+
+# OS generated files
+.DS_Store
+Thumbs.db
